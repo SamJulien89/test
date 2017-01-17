@@ -1,11 +1,7 @@
-sadas
-dsad
-asd
-sadsa
-d
-sad
-sad
-sa
-d
-patrickcxcxccxcxcx
-mati
+# test
+Repository for learning GIT
+C'est ma partie
+test2
+test3
+Autre test
+ghjgfgjhgghg
